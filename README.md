@@ -27,7 +27,7 @@ Yeah! we want to break those limitations. So we create this utility for you. `On
 
 ### Installation
 
-1. Download our [Unity Package](https://github.com/ReiiYuki/once-data-manager/releases/tag/1.0.0)
+1. Download our [Unity Package](https://github.com/ReiiYuki/once-data-manager/releases/tag/v1.0.0)
 2. Import our package by `Assets` -> `Import Package` -> `Custom Package...`
 3. Select `odm.unitypackage`
 3. `ODM` directory will appear on your project.
